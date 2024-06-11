@@ -7,6 +7,8 @@ The base game has several points when you will probably curse your lack of fores
 3. there is no 3
 4. profit (as much profit as you can get from fruit, which... is not very much, even on iridium. But your OCD can rest easy)
 
+It only works with nearly mature trees (7 days before they give fruit, stage 3). Younger trees can be dug up with hoe in base game (giving only common sapling), and this mods preserves that behavior.
+
 # Installation / uninstallation
 
 Install via the usual methods - download a zip, or with Vortex (Vortex is safe for THIS mod. It might break your other more complex mods though). Only dependency is SMAPI 4.0.0 or greater.

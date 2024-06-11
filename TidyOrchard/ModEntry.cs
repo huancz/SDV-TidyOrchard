@@ -71,6 +71,8 @@ namespace TidyOrchard
                 || __instance.fruit.Count > 0
                 || __instance.struckByLightningCountdown.Value > 0
                 || __instance.stump.Value
+                || __instance.growthStage.Value < 3 // stage 3 trees require axe, lower stages react to hoe too => creating special sapling would add duplicate
+                || __result == true
                 || explosion != 0
                 )
             {
